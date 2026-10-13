@@ -27,7 +27,7 @@ Python 3.10+.
 
 ## Run on Windows PowerShell
 ```powershell
-git clone https://github.com/YOUR_USERNAME/documind-ai.git
+git clone https://github.com/Jha0987/documind-ai.git
 cd documind-ai
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
